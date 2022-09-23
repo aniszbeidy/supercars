@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free McLaren P1 GTR
+* source:	https://sketchfab.com/3d-models/free-mclaren-p1-gtr-d805bec04cf5407fa7c036c20c726d39
+* author:	Desiccated_Lemon (https://sketchfab.com/Desiccated_Lemon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free McLaren P1 GTR" (https://sketchfab.com/3d-models/free-mclaren-p1-gtr-d805bec04cf5407fa7c036c20c726d39) by Desiccated_Lemon (https://sketchfab.com/Desiccated_Lemon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
